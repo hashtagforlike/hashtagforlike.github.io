@@ -12,7 +12,7 @@
  
 "use strict";
 //-- Accent Color ----
-var accentColor = "#4d2692";
+var accentColor = "#447399";
 
 function setAccentColor () {
 $('.accent-color-bg').css('background-color', accentColor);
